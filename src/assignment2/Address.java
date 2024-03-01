@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+package assignment2;
+
+=======
+>>>>>>> origin/master
 public class Address {
      String city;
      String state;
